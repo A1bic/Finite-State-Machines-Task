@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdint>
 void DFA_conditions(std::string& a) {
   int current_state = 0;
   for (char& ch : a) {

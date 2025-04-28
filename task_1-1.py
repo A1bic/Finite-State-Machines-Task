@@ -1,6 +1,4 @@
-#a = ""
 a = input("Введите строку для автомата: ")
-
 
 current_state = 'q0'
 for i in a:
